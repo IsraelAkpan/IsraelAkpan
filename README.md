@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Israel. I enjoy reading physics texts and talking philosophy. I like to learn about new ideas and GitHub is my most recent pick. I like to collaborate with others and I'm looking forward to get in the mix of all that!
 
 <!--
 **IsraelAkpan/IsraelAkpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
