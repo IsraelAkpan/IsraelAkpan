@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Israel. I enjoy reading physics texts and talking philosophy. I like to learn about new ideas and GitHub is my most recent pick. I like to collaborate with others and I'm looking forward to get in the mix of all that!
+### Hi there 👋, I'm Israel. I enjoy reading physics texts and talking philosophy. I like to learn about new ideas and GitHub is my most recent pick. I like to collaborate with others and I'm looking forward to get in the mix of all that! I’m currently learning about brains, how to detect brain waves and use that information to model their underlying electrical activity and so I suppose that future projects will be in areas relating to MEG/EEG and Neuroscience as a whole.
 
 <!--
 **IsraelAkpan/IsraelAkpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
